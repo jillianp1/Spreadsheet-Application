@@ -1,0 +1,11 @@
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\bin\Debug\HW5_ExpressionTree.exe.config
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\bin\Debug\HW5_ExpressionTree.exe
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\bin\Debug\HW5_ExpressionTree.pdb
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\bin\Debug\SpreadsheetEngineFixed.dll
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\bin\Debug\SpreadsheetEngineFixed.pdb
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\obj\Debug\ExpressionTreeDemo.csproj.AssemblyReference.cache
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\obj\Debug\ExpressionTreeDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\obj\Debug\ExpressionTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\obj\Debug\ExpressionTreeDemo.csproj.CopyComplete
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\obj\Debug\HW5_ExpressionTree.exe
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\HW5_ExpressionTree\obj\Debug\HW5_ExpressionTree.pdb
