@@ -1,0 +1,6 @@
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\SpreadsheetEngineFixed\obj\Debug\SpreadsheetEngineFixed.csproj.AssemblyReference.cache
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\SpreadsheetEngineFixed\obj\Debug\SpreadsheetEngineFixed.csproj.CoreCompileInputs.cache
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\SpreadsheetEngineFixed\bin\Debug\SpreadsheetEngineFixed.dll
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\SpreadsheetEngineFixed\bin\Debug\SpreadsheetEngineFixed.pdb
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\SpreadsheetEngineFixed\obj\Debug\SpreadsheetEngineFixed.dll
+C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\SpreadsheetEngineFixed\obj\Debug\SpreadsheetEngineFixed.pdb
