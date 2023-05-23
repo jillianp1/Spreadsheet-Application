@@ -1,2 +1,0 @@
-C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\SpreadsheetEngineFixed\obj\Debug\SpreadsheetEngine.csproj.AssemblyReference.cache
-C:\Users\jilli\Desktop\CptS321\cpts321-hws\Spreadsheet_Jillian_Plahn\SpreadsheetEngineFixed\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
